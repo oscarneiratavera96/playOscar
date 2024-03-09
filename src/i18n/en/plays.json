@@ -1,0 +1,23 @@
+{
+  "paginas": {
+    "plays": {
+      "login": {
+        "welcomeMessage": "Welcome to OscarPlay",
+        "form": {
+          "title": "Log in",
+          "email": "Email",
+          "password": "Password",
+          "submit": "Log in",
+          "initialAvatar": "O"
+        }
+      },
+      "home": {
+        "title": "Our categories"
+      },
+      "nabvar": {
+        "title": "OscarPlay",
+        "sesion": "Logout"
+      }
+    }
+  }
+}

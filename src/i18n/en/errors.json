@@ -1,0 +1,7 @@
+{
+  "plays": {
+    "inputRequerid": "This field is required",
+    "emailInvalid": "Invalid email",
+    "loginInvalid": "Incorrect username or password"
+  }
+}
