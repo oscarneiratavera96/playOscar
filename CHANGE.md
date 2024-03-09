@@ -5,16 +5,10 @@ Todos los cambios que se realicen en este proyecto se documentarán en este arch
 El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/)
 y este proyecto se utiliza la estructura de versiones de [Semantic Versioning](http://semver.org/).
 
-## [Unreleased] - Nueva versión en desarrollo (2024-??-??)
+## [1.0.0] - Lanzamiento de componentes principales (2024-03-09)
 
-### Added - Nuevas funcionalidades (Unreleased)
+### Added - Nuevas funcionalidades (1.0.0)
 
-### Changed - Modificaciones (Unreleased)
-
-### Deprecated - Funcionalidades obsoletas (Unreleased)
-
-### Fixed - Corrección de defectos (Unreleased)
-
-### Deleted - Elementos eliminados (Unreleased)
+- Se agregan componentes principales para el funcioamiento inicial del proyecto
 
 ---
